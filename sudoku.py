@@ -19,7 +19,7 @@ for i in range(5):
             break
         mat = newmat
 mat.print()
-#mat.mat[0][1].set(6)
+# mat.mat[0][1].set(6)
 # mat.mat[0][2].set(1)
 # mat.mat[0][5].set(4)
 # mat.mat[1][0].set(3)
